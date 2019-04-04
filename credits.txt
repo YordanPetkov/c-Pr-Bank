@@ -1,0 +1,8 @@
+IDcode          NAME                  credits        PIN
+0001          a                        400         1111
+0002          b                        5500         2222
+0003          Ydsds                    2000         3333
+0004          Yordan                   1000         4444
+0005          GO6oooooo                7000         5555
+
+

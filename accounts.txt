@@ -1,0 +1,14 @@
+IDcode          NAME                  MONEY         PIN
+0001          a                        5000         1111
+0002          b                        5000         2222
+0003          Ydsds                    5000         3333
+0004          Yordan                   5000         4444
+0005          GO6oooooo                5000         5555
+0006          gdfgdf                   53534        5455
+
+0007 as 0$ 4200
+0008 Yordan_petkov 0$ 4200
+0009 DAKATAA 0$ 0042
+0010 asdasdasdasdas 0$ 3849
+0011 sadasdasdas... 0$ 3875
+0012 sada 0$ 2097

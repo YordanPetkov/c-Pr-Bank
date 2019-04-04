@@ -1,0 +1,8 @@
+IDcode          NAME                  Deposits         PIN
+0001          a                        4000         1111
+0002          b                        200         2222
+0003          Ydsds                    100         3333
+0004          Yordan                   700         4444
+0005          GO6oooooo                600         5555
+
+
